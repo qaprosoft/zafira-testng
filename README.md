@@ -1,11 +1,12 @@
 # Zafira::TestNG
 ## Integration
+
 ### Add Maven dependency
 ```
 <dependency>
     <groupId>com.qaprosoft</groupId>
     <artifactId>zafira-client</artifactId>
-    <version>${zafira-client.version}</version>
+    <version>latest</version>
 </dependency>
 ```
 
