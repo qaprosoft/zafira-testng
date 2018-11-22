@@ -49,11 +49,4 @@ zafira_project=UNKNOWN
     [...]
 </suite>
 ```
-#### 3. Include @Listeners annotation
-```
-@Listeners({ZafiraListener.class})
-public class LoginTest {
-[...]
-}
-```
 
